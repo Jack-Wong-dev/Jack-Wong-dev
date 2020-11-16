@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - 🎯 I plan on work on a [geo-based location alarm iOS application](https://github.com/Jack-Wong-dev/LocationAlarm) and reaching it to MVP 
 
 ## 📫 How to reach me:
-You can reach me on [LinkedIn](www.linkedin.com/in/jack-wong-dev).
+[<img src="https://raw.githubusercontent.com/Jack-Wong-dev/Jack-Wong-dev/main/assets/linkedin.png" height="40em" align="center" alt="Jack-Wong-dev on LinkedIn" title="Jack-Wong-dev on LinkedIn"/>](https://linkedin.com/in/Jack-Wong-dev)
+[<img src="https://raw.githubusercontent.com/Jack-Wong-dev/Jack-Wong-dev/main/assets/twitter.svg" height="40em" align="center" alt="Jack-Wong-dev on Twitter" title="Jack-Wong-dev on twitter"/>](https://twitter.com/asianjacket)
