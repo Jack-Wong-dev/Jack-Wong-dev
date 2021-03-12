@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 ## ⬆ What I'm up to
 - 🔨  I'm currently helping to develop an iOS app for [Avido](https://myavido.com/)
-- 🎯  I plan to flesh out my [Job Application Tracker](https://github.com/Jack-Wong-dev/JobAppTracker) and making it multiplatform (iOS/iPadOS/MacOS)
-- 🎯  I plan on work on a [geo-based location alarm iOS application](https://github.com/Jack-Wong-dev/LocationAlarm) and reaching it to MVP 
+- 🎯  I plan to flesh out my [Job Application Tracker](https://github.com/Jack-Wong-dev/JobAppTracker) and making it multiplatform (iOS/iPadOS/MacOS).
+- 🎯  I plan to flesh out my [King's Cup drinking game iOS app](https://github.com/Jack-Wong-dev/King-s-Cup) by tweaking the UI and adding customizations.
+- 🎯  I plan on work on a [geo-based location alarm iOS application](https://github.com/Jack-Wong-dev/LocationAlarm) and reaching it to MVP. 
 
 ## 📫 How to reach me:
 [<img src="https://raw.githubusercontent.com/Jack-Wong-dev/Jack-Wong-dev/main/assets/linkedin.png" height="40em" align="center" alt="Jack-Wong-dev on LinkedIn" title="Jack-Wong-dev on LinkedIn"/>](https://linkedin.com/in/Jack-Wong-dev)
