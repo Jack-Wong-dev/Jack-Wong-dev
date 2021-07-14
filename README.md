@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## :book: About Me
-- 🖥 iOS Developer 
+- 🖥 Software Engineer at Foursquare
 - 🎓 Studied Computer Science at Queens College, City University of New York.
 - 🎓 Learned iOS Development at Pursuit, an intensive 10-month, Google-funded software engineering fellowship with a 9% acceptance rate (out of 1500+ applicants) with a curriculum designed by engineers from Vice, Facebook, Yahoo, Artsy, and LinkedIn.
 
